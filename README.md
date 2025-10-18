@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Mock Interview Platform 🤖
 
-## Getting Started
+Welcome to the AI Mock Interview Platform repository! This platform is designed specifically for developers, providing a unique experience using an AI chatbot to simulate mock interviews. 
 
-First, run the development server:
+## Features 🚀
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Utilizes dayjs for efficient date and time manipulation.
+- Integrated with Firebase for real-time database functionality.
+- Powered by Google AI Studio for advanced AI capabilities.
+- Built with Next.js for server-side rendering React applications.
+- Utilizes Shadcn UI for a sleek and modern user interface.
+- Styled with Tailwind CSS for rapid and responsive web development.
+- Developed using TypeScript for enhanced code readability and reliability.
+- Implements Vapi and Vapi AI for streamlined API interactions.
+- Managed with Yarn for fast and reliable package management.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Get Started 🛠️
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+To start using the AI Mock Interview Platform, visit the [Releases](https://github.com/bayuwisnuwardana/ai-mock-interview-platform/releases) section and download the necessary files. Execute the setup instructions to begin your mock interview experience.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Contributing 🤝
 
-## Learn More
+Contributions are welcome to enhance the functionality and features of the AI Mock Interview Platform. Feel free to fork the repository, make your changes, and submit a pull request. Together, we can create a valuable resource for developers preparing for interviews.
 
-To learn more about Next.js, take a look at the following resources:
+## Support ☎️
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+If you encounter any issues or have feedback for the AI Mock Interview Platform, please open an issue on the repository. Our team will assist you promptly to ensure a smooth and effective user experience.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Let's revolutionize the way developers prepare for interviews with the AI Mock Interview Platform. Join us on this exciting journey and level up your interviewing skills today! 🌟
 
-## Deploy on Vercel
+---
+🤖🚀🛠️🤝☎️🌟
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![AI Mock Interview Platform](https://example.com/image.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+Total Words: 297
